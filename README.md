@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Olá! Meu nome é Luciene!!
 
  Sou estudande de Análise e Desenvolvimento de Sistemas.
@@ -20,6 +20,7 @@ Olá! Meu nome é Luciene!!
 </defs>
 </svg>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
