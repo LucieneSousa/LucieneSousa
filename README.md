@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucieneborges/)](https://www.linkedin.com/in/lucieneborges/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucienebsousa@gmail.com)
 
 Olá! Meu nome é Luciene!!
 
@@ -24,7 +26,9 @@ Olá! Meu nome é Luciene!!
   ![Luciene Sousa's github stats](https://github-readme-stats.vercel.app/api?username=LucieneSousa&show_icons=true&theme=radical)
   
   
-  
+ 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucieneborges/)](https://www.linkedin.com/in/lucieneborges/)
 
 <!--
 Here are some ideas to get you started:
