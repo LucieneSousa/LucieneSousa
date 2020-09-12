@@ -15,17 +15,14 @@ Olá! Meu nome é Luciene!!
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
----
+
 
 </p>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
+
   
   ![Luciene Sousa's github stats](https://github-readme-stats.vercel.app/api?username=LucieneSousa&show_icons=true&theme=radical)
-  </details>
+  
   
   
 
