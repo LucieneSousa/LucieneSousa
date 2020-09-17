@@ -23,5 +23,5 @@ Olá! Meu nome é Luciene!!
 
 
   
-  ![Luciene Sousa's github stats](https://github-readme-stats.vercel.app/api?username=LucieneSousa&show_icons=true&theme=radical)
+
 
